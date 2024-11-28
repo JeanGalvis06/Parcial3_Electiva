@@ -1,0 +1,22 @@
+{
+  "name": "parcial3",
+  "version": "1.0.0",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DeijoseDevelop/parcial3-electiva-s3.git"
+  },
+  "author": "Deiver Vasquez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DeijoseDevelop/parcial3-electiva-s3/issues"
+  },
+  "homepage": "https://github.com/DeijoseDevelop/parcial3-electiva-s3#readme",
+  "description": "",
+  "devDependencies": {
+    "tailwindcss": "^3.4.15"
+  }
+}

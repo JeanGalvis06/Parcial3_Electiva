@@ -1,0 +1,22 @@
+{
+  "name": "Parcial3_Electiva",
+  "version": "1.0.0",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JeanGalvis06/Parcial3_Electiva.git"
+  },
+  "author": "Jean Galvis",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JeanGalvis06/Parcial3_Electiva.git/issues"
+  },
+  "homepage": "https://github.com/JeanGalvis06/Parcial3_Electiva#readme",
+  "description": "",
+  "devDependencies": {
+    "tailwindcss": "^3.4.15"
+  }
+}
